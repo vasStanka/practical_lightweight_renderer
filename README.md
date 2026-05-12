@@ -7,9 +7,6 @@ It builds and runs on **Ubuntu** and **macOS**.
 
 <a name="screenshots"></a>
 
-## Movement controls
-
-![Movement Demo](images/demo_1_fixed.gif)
 
 ## Different levels of depth
 
