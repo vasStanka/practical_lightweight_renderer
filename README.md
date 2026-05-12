@@ -7,28 +7,17 @@ It builds and runs on **Ubuntu** and **macOS**.
 
 <a name="screenshots"></a>
 
-## Different levels of depth <a name="screenshots"></a>
-<video src="images/depth.mp4"
-       autoplay
-       loop
-       muted
-       playsinline
-       style="max-width:100%; height:auto;">
-  Your browser does not support the video tag.
-</video>
+## Movement controls
 
-<a name="screenshots"></a>
+![Movement Demo](images/demo_1_fixed.gif)
 
-## Different samples per pixel (SPP) <a name="screenshots"></a>
+## Different levels of depth
 
-<video src="images/spp.mp4"
-       autoplay
-       loop
-       muted
-       playsinline
-       style="max-width:100%; height:auto;">
-  Your browser does not support the video tag.
-</video>
+![Depth Demo](images/depth.gif)
+
+## Different samples per pixel (SPP)
+
+![SPP Demo](images/spp.gif)
 
 
 ---
